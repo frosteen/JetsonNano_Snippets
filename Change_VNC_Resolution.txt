@@ -1,0 +1,13 @@
+1. sudo nano /etc/X11/xorg.conf
+
+2. Append the following lines:
+
+Section "Screen"
+Identifier "Default Screen"
+Monitor "Configured Monitor"
+Device "Tegra0"
+SubSection "Display"
+Depth 24
+Virtual 1280 720 # Modify the resolution by editing these values
+EndSubSection
+EndSection

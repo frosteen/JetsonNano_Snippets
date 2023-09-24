@@ -1,0 +1,2 @@
+1. Install JetPack on your Jetson device.
+2. https://qengineering.eu/install-tensorflow-2.4.0-on-jetson-nano.html

@@ -1,0 +1,2 @@
+1. Install JetPack on your Jetson device.
+2. https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048

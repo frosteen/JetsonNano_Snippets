@@ -1,0 +1,1 @@
+https://developer.nvidia.com/embedded/learn/tutorials/vnc-setup

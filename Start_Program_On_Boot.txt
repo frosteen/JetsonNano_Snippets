@@ -1,0 +1,9 @@
+# Only run the program once
+
+mkdir /home/nano/.config/autostart
+nano /home/nano/.config/autostart/program.desktop
+
+[Desktop Entry]
+Type=Application
+Name=Program
+Exec=/bin/bash /home/nano/start.sh &
