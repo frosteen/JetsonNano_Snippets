@@ -1,4 +1,4 @@
-# Arduino_Snippets
+# JetsonNano_Snippets
 A collection of jetson-nano snippets that I often use for my freelance projects.
 
 _If you liked my hard work, I would really appreciate if you can buy some coffee for me._
